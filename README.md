@@ -1,4 +1,11 @@
 # 📊 End-to-End Vendor Performance Analytics using Python, SQLite & Power BI
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
+![SQL](https://img.shields.io/badge/SQL-Queries-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 An end-to-end data analytics project that analyzes vendor performance using ETL pipelines, feature engineering, statistical analysis, and an interactive Power BI dashboard. The project transforms raw procurement and sales data into meaningful business insights that support vendor evaluation, inventory optimization, procurement planning, and data-driven decision-making.
 
