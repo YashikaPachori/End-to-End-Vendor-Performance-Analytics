@@ -1,4 +1,4 @@
-# 📊 End-to-End Vendor Performance Analytics using Python, SQLite & Power BI
+# 📊 End-to-End Vendor Performance Analytics 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
