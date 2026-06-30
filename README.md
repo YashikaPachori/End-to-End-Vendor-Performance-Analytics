@@ -10,6 +10,17 @@
 An end-to-end data analytics project that analyzes vendor performance using ETL pipelines, feature engineering, statistical analysis, and an interactive Power BI dashboard. The project transforms raw procurement and sales data into meaningful business insights that support vendor evaluation, inventory optimization, procurement planning, and data-driven decision-making.
 
 ---
+## 📌 Project Snapshot
+
+| Category | Details |
+|----------|---------|
+| 🎯 Domain | Vendor Performance Analytics |
+| 🛠️ Tech Stack | Python, SQLite, SQL, Power BI, DAX |
+| 📊 Dashboard | Interactive Power BI Dashboard |
+| 🗄️ Database | SQLite |
+| 📈 Analysis | EDA, Feature Engineering, Statistical Analysis |
+| 📦 ETL | Automated Data Ingestion & Processing |
+| 💼 Goal | Procurement & Inventory Optimization |
 
 ## 🚀 Project Overview
 
